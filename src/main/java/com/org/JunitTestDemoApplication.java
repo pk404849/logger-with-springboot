@@ -10,7 +10,7 @@ public class JunitTestDemoApplication {
 
 		SpringApplication.run(JunitTestDemoApplication.class, args);
 
-		System.out.println("============ main method completed ==============");
+		System.out.println("============ main method completed ====================");
 
 	}
 
